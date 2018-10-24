@@ -2,8 +2,8 @@ let score = 0;
 let currentQuestion = 0;
 let questions = [
     {
-        title:"What hair color has Nicki Minaj not had?",
-        answers:['pink','neon yellow', 'purple', 'blue'],
+        title:"Which singer has not dyed their hair pink?",
+        answers:['Iggy Azalea','Katy Perry', 'Zayn', 'Selena Gomez'],
         correct: 3
     },
 
